@@ -1,4 +1,28 @@
 .photo-grid__item {
+<<<<<<< HEAD
   object-fit: cover;
   max-width: 100%;
 }
+=======
+  max-width: 284px;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1184px) {
+  .photo-grid__item {
+    max-width: 300px;
+  }
+}
+
+@media screen and (max-width: 928px) {
+  .photo-grid__item {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .photo-grid__item {
+    max-width: 288px;
+  }
+}
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f

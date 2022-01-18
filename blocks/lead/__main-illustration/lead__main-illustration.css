@@ -1,6 +1,10 @@
 .lead__main-illustration {
   display: block;
+<<<<<<< HEAD
   width: 100%;
+=======
+  max-width: 100%;
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
   margin: 0 auto;
   object-fit: cover;
 }
