@@ -5,11 +5,7 @@
   line-height: 28px;
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 768px) {
-=======
-@media screen and (max-width: 720px) {
->>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
   .header__language-link  {
     font-size: 18px;
     line-height: 20px;

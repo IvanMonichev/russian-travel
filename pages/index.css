@@ -28,7 +28,6 @@
 /* Section PhotoGrid */
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
-<<<<<<< HEAD
 
 /* Section Places */
 @import url(../blocks/places/places.css);
@@ -42,5 +41,3 @@
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__two-row/place__two-row.css);
-=======
->>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
