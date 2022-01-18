@@ -7,10 +7,17 @@
   max-width: 720px;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 768px) {
   .lead__title {
     font-size: 40px;
     line-height: 44px;
     min-width: 288px;
+=======
+@media screen and (max-width: 720px) {
+  .lead__title {
+    font-size: 40px;
+    line-height: 44px;
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
   }
 }

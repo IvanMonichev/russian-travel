@@ -1,9 +1,18 @@
 .logo {
+<<<<<<< HEAD
   width: 176px;
 }
 
 @media screen and (max-width: 768px) {
   .logo {
     width: 142px;
+=======
+  max-width: 176px;
+}
+
+@media screen and (max-width: 720px) {
+  .logo {
+    max-width: 142px;
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
   }
 }

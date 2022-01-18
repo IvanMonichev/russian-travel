@@ -1,6 +1,7 @@
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+<<<<<<< HEAD
   gap: 16px;
   margin: 0 auto;
   max-width: calc(100% - 96px);
@@ -10,22 +11,42 @@
 @media screen and (max-width: 1024px) {
   .photo-grid {
     max-width: calc(100% - 96px);
+=======
+  grid-auto-rows: 1fr;
+  gap: 16px;
+  margin-top: 92px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1184px) {
+  .photo-grid {
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
     grid-template-columns: repeat(3, 1fr);
     gap: 14px;
   }
 }
 
 
+<<<<<<< HEAD
 @media screen and (max-width: 768px) {
   .photo-grid {
     max-width: calc(100% - 48px);
+=======
+@media screen and (max-width: 928px) {
+  .photo-grid {
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 425px) {
   .photo-grid {
     max-width: calc(100% - 32px);
+=======
+@media screen and (max-width: 720px) {
+  .photo-grid {
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
     grid-template-columns: 1fr;
   }
 }

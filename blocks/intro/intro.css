@@ -1,5 +1,6 @@
 .intro {
   box-sizing: border-box;
+<<<<<<< HEAD
   max-width: 984px;
   margin: 0 auto;
   padding-bottom: 92px;
@@ -27,3 +28,14 @@
   }
 }
 
+=======
+  margin: 92px 0 0 100px;
+  max-width: 690px;
+}
+
+@media screen and (max-width: 1184px) {
+  .intro {
+    margin-left: 0
+  }
+}
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f

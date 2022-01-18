@@ -1,4 +1,5 @@
 .lead {
+<<<<<<< HEAD
   margin: 0 auto;
   max-width: 984px;
   padding-bottom: 92px;
@@ -20,4 +21,16 @@
   .lead {
     padding-bottom: 64px;
   }
+=======
+  box-sizing: border-box;
+  padding-top: 56px;
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1184px) {
+  .lead {
+    max-width: 928px;
+  }
+>>>>>>> a7241a0b9d0e7bdfd18c631b01550ae7b8d2631f
 }
