@@ -2,9 +2,8 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 16px;
-  margin: 0 auto;
+  margin: 0 auto 92px auto;
   max-width: calc(100% - 96px);
-  padding-bottom: 92px;
 }
 
 @media screen and (max-width: 1024px) {
