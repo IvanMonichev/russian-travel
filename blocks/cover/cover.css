@@ -3,7 +3,7 @@
   max-width: 1184px;
   min-height: 740px;
   position: relative;
-  margin: 0 auto;
+  margin: 0 auto 92px auto;
 }
 
 @media screen and (max-width: 1184px) {
