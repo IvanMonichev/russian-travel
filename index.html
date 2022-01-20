@@ -8,6 +8,8 @@
   <meta name="description" content="Страница про путешствия по России.">
   <meta name="keywords" content="Путешествия, туризм, Россия">
   <meta name="author" content="Ivan Monichev">
+  <link rel="stylesheet" href="./vendor/normalize.css">
+  <link rel="stylesheet" href="./vendor/fonts.css">
   <link rel="stylesheet" href="./pages/index.css">
   <title>Путешествия по России</title>
 </head>
@@ -15,7 +17,7 @@
 <body class="page-container">
 
   <header class="header">
-    <img class="logo" src="images/logo/logo.png">
+    <img class="logo" src="images/logo/logo.png" alt="Логотип «Россия»">
     <ul class="header__language-links">
       <li><a href="#" class="header__language-link header__language-link_active">Ru</a></li>
       <li><a href="#" class="header__language-link">En</a></li>
@@ -28,18 +30,20 @@
       <p class="lead__subtitle">Настоящая страна не в выпусках новостей, а здесь.</p>
       <figure class="lead__figure">
         <img src="./images/lead-polka.jpg" alt="Фотография спящей девушки в поезде" class="lead__main-illustration">
-        <figcaption class="lead__caption">ваша полка — верхняя</p>
+        <figcaption class="lead__caption">ваша полка — верхняя</figcaption>
       </figure>
     </section>
 
     <article class="intro">
       <h2 class="intro__title">Чего мы там не видели?</h2>
-      <p class="intro__text">По опросам ВЦИОМ, 95% россиян мечтают куда-нибудь поехать, но только 36% планируют провести
-        отпуск в родной стране. Мол, чего мы тут, дома, не видели? На самом деле, Россия — это целая вселенная с
-        ласковым морем юга, густыми лесами Саян и суровыми льдами плато Путорана. А ещё увидеть все эти красоты можно
-        без миллионов на счету, загранпаспорта и многочасовых перелетов. Как, например, Вера Башмакова — смелая молодая
-        мама, которая взяла в охапку троих детей, усадила их в свою «Ладу» и проехала 20 тысяч километров по родной
-        стране. Мы выбрали и описали некоторые интересные места, достойные вашего отпуска.</p>
+      <p class="intro__text">По&nbsp;опросам ВЦИОМ, 95% россиян мечтают куда-нибудь поехать, но&nbsp;только&nbsp;36%
+        планируют провести отпуск в&nbsp;родной стране. Мол, чего мы&nbsp;тут, дома, не&nbsp;видели? На&nbsp;самом деле,
+        Россия&nbsp;&mdash; это целая вселенная с&nbsp;ласковым морем юга, густыми лесами Саян и&nbsp;суровыми льдами
+        плато Путорана. А&nbsp;ещё увидеть все эти красоты можно без миллионов на&nbsp;счету, загранпаспорта
+        и&nbsp;многочасовых перелетов. Как, например, Вера Башмакова&nbsp;&mdash; смелая молодая мама, которая взяла
+        в&nbsp;охапку троих детей, усадила их&nbsp;в&nbsp;свою &laquo;Ладу&raquo; и&nbsp;проехала 20&nbsp;тысяч
+        километров по&nbsp;родной стране. Мы&nbsp;выбрали и&nbsp;описали некоторые интересные места, достойные вашего
+        отпуска.</p>
       <ul class="intro__list">
         <li><span class="intro__span-accent">Часовых поясов</span> 11</li>
         <li><span class="intro__span-accent">Объектов природного наследия ЮНЕСКО</span> 12</li>
@@ -88,7 +92,7 @@
         <h2 class="place__title">Кольский</h2>
         <div class="place__website">
           <p class="place__url-heading">URL</p>
-          <a href="https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy link-animation"
+          <a href="https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy"
             class="place__link link-animation" target="_blank">National Geographic</a>
         </div>
         <img src="./images/place-kolsky.jpg" alt="Фотография кольской снежной горы" class="place__image">
@@ -174,8 +178,9 @@
       </ul>
       <p class="footer__copyright">© 2022. Иван Моничев</p>
     </footer>
-    
+
   </main>
 
 </body>
+
 </html>

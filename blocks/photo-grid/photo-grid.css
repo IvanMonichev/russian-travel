@@ -20,7 +20,7 @@
   .photo-grid {
     max-width: calc(100% - 48px);
     grid-template-columns: repeat(2, 1fr);
-    margin: 0 auto 90px auto;
+    margin: 0 auto 88px auto;
   }
 }
 
@@ -28,5 +28,6 @@
   .photo-grid {
     max-width: calc(100% - 32px);
     grid-template-columns: 1fr;
+    margin: 0 auto 64px auto;
   }
 }
