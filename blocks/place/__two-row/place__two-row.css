@@ -1,5 +1,5 @@
 @media screen and (max-width: 650px) {
   .place__two-row {
-    padding: 32px 16px 0 16px;
+    padding-top: 32px;
   }
 }
