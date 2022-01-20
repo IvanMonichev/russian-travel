@@ -20,6 +20,7 @@
   .photo-grid {
     max-width: calc(100% - 48px);
     grid-template-columns: repeat(2, 1fr);
+    margin: 0 auto 90px auto;
   }
 }
 
