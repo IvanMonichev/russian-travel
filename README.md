@@ -15,6 +15,8 @@
 2. Добавление формы обрабной связи.
 3. Добавление отзывов.
 
+Ссылка на страницу: [ivanmonichev.github.io/russian-travel](https://ivanmonichev.github.io/russian-travel/)
+
 # Website «Travel to Russia»
 
 **Website «Travel to Russia»** – The "Travel to Russia" website is the second project that was developed as part of the [Yandex.Practicum ](https://practicum.yandex.ru/) online course on mastering the profession of «Web developer».
@@ -31,3 +33,5 @@ The content part of the site shows visitors the beautiful places of Russia that 
 1. CMS connection.
 2. Adding a form of processing communication.
 3. Adding reviews.
+
+Link to the page: [ivanmonichev.github.io/russian-travel](https://ivanmonichev.github.io/russian-travel/)
