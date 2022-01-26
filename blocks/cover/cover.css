@@ -1,15 +1,11 @@
 .cover {
   display: flex;
   max-width: 1184px;
-  min-height: 740px;
-  position: relative;
   margin: 0 auto 92px auto;
 }
 
-@media screen and (max-width: 1184px) {
+@media screen and (max-width: 650px) {
   .cover {
-    min-height: 62.50vw;
+    margin-bottom: 64px;
   }  
 }
-
-
