@@ -1,37 +1,26 @@
-# Сайт «Путешествие по России»
+#  Сайт «Путешествие по России»
 
-**Сайт «Путешествие по России»** – это второй проект, который был разработан в рамках изучения онлайн-курса [Яндекс.Практикум](https://practicum.yandex.ru/) на освоение профессии «Веб-разработчик».
+### ⚙️ Технологии
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Цель данного проекта – закрепление навыков по вёрстке сайтов с применением *адаптивности*.
+___
 
-Контентная  часть сайта демонстрирует посетителям красивые места России, которые можно посетить в ходе путешествия.
+### 📄 Описание
+**Сайт «Movies Explorer»** – это второй проект, который был разработан в рамках изучения онлайн-курса [Яндекс.Практикум](https://practicum.yandex.ru/) на освоение профессии «Веб-разработчик».
 
-**Технологии:**
-* HTML.
-* CSS.
+**Цель проекта** – закрепление навыков по вёрстке сайто.
 
-**Планы по улучшению:**
-1. Подключение CMS.
-2. Добавление формы обрабной связи.
-3. Добавление отзывов.
+Контентная часть сайта демонстрирует посетителям красивые места России, которые можно посетить в ходе путешествия.
 
-Ссылка на страницу: [ivanmonichev.github.io/russian-travel](https://ivanmonichev.github.io/russian-travel/)
+___
 
-# Website «Travel to Russia»
+___
+### 📌 Планы по доработке
+- добавить светлую тему
+- добавить функционал по переключению языка
 
-**Website «Travel to Russia»** – The "Travel to Russia" website is the second project that was developed as part of the [Yandex.Practicum ](https://practicum.yandex.ru/) online course on mastering the profession of «Web developer».
+___
 
-The purpose of this project is to consolidate the skills of site layout using *adaptivity*.
-
-The content part of the site shows visitors the beautiful places of Russia that can be visited during the trip.
-
-**Technologies:**
-* HTML.
-* CSS.
-
-**Improvement plans:**
-1. CMS connection.
-2. Adding a form of processing communication.
-3. Adding reviews.
-
-Link to the page: [ivanmonichev.github.io/russian-travel](https://ivanmonichev.github.io/russian-travel/)
+### 💡 Запуск проекта:
+Перейдите по ссылке: [ivanmonichev.github.io/russian-travel](https://ivanmonichev.github.io/russian-travel/)
